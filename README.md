@@ -13,8 +13,8 @@ Then model training can be done and results can be generated.
 
 References used for Pivoted Cholesky Decomposition:
 
-# H Harbrecht, M Peters, R Schneider. On the low-rank approximation by the pivoted Cholesky decomposition. Applied numerical mathematics, 62(4):428-440, 2012.
-#reference : https://github.com/tensorflow/probability/blob/v0.12.2/tensorflow_probability/python/math/linalg.py#L264-L404
+-H Harbrecht, M Peters, R Schneider. On the low-rank approximation by the pivoted Cholesky decomposition. Applied numerical mathematics, 62(4):428-440, 2012.
+-reference : https://github.com/tensorflow/probability/blob/v0.12.2/tensorflow_probability/python/math/linalg.py#L264-L404
 
 Results generated and plotted:
 
