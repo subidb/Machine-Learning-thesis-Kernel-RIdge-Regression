@@ -24,13 +24,15 @@ Results generated and plotted:
 
 Each code cell is explained by the cell above in the notebook and it is rather intuitive to play around with the parameters and generate results.
 
-Required libraries:
+Required Software and libraries:
 
 - numpy 
 - cupy 
 - sklearn
 - timeit 
 - matplotlib 
+
+Python Version 3.7+
 
 All the required libraries are also on the top cell of the notebook:
 
