@@ -2,9 +2,7 @@
 
 Low-rank approximate machine learning training in kernel ridge regression on GPU
 
-Subid Basaula, Jacobs University
-
-Supervised by Prof. Peter Zaspel
+Subid Basaula, Jacobs Universit
 
 
 This Jupyter Notebook contains the python code required to run Pivoted Cholesky decomposition(PCD) on both the GPU and the CPU.
